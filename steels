@@ -1,1 +1,7 @@
-work=True
+{
+    "companyName": "Janatha Steels Pvt Ltd",
+    "dashboardDesigner": "Gayashan Pananwala",
+    "work": true,
+    "push": false,
+    "exec": ''
+}
