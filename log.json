@@ -1,6 +1,6 @@
 {
   "enabled":true,
-  "ss_enabled":true",
+  "ss_enabled":true,
   "ss_interval": 200,
   "sendDis": true,
   "discUrl":"",
